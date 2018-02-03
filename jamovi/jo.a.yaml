@@ -1,0 +1,17 @@
+---
+name:  jo
+title: JAGS Go
+menuGroup: jjags
+version: '1.0.0'
+jas: '1.1'
+
+options:
+    - name: x
+      title: X
+      type: Variable
+
+    - name: samples
+      title: Samples
+      type: Integer
+      default: 1000
+...

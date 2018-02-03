@@ -1,0 +1,17 @@
+---
+name:  jo
+title: JAGS Go
+jrs:   '1.1'
+
+items:
+    - name:  mu
+      title: mu
+      type:  Image
+      renderFun: .plotMu
+    
+    - name:  tau
+      title: tau
+      type:  Image
+      renderFun: .plotTau
+
+...
